@@ -1,5 +1,12 @@
 # Moon-Notes
-This is a website where you can add your notes and save them for further use. The notes will be kept saved until you delete them on your own
+WebSite - https://palakbaghel.github.io/Moon-Notes/
+
+In this website you can add notes as well as delete notes and you don’t
+need to remember anything. This website consists of an animated
+background and attractive UI design.
+Note-taking websites are the online equivalent of notebooks, and
+because they are digital, they can do more for you than paper ever
+could.
 
 JavaScript
 HTML
